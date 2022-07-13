@@ -32,3 +32,7 @@ graph TD;
 ```
 
 Note, however, that Mermaid.js might not currently be as feature-rich as the veteran PlanUML, but it allows for custom theming, though not covered here.
+
+### Online Editor
+
+[Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live)
